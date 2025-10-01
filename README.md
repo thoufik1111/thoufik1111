@@ -19,8 +19,8 @@
 
 
 ### 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/mohammed-thoufik-316956293?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://instagram.com/yourprofile](https://www.instagram.com/royal_beast_boy?igsh=OXhueHozN2hxanMy))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-thoufik-316956293)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/royal_beast_boy)
 
 ### 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=thoufik1111&show_icons=true&theme=radical)
