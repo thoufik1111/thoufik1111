@@ -11,11 +11,14 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 
-## 🛠️ My Projects
+ ## 🛠️ My Projects  
 
-- [![Stock Market Website](https://img.shields.io/badge/StockMarket-Web-blue?style=for-the-badge)](https://github.com/thoufik1111/Stockmarketweb)
-- [![AgroNity](https://img.shields.io/badge/AgroNity-AI%20Agricultural%20Assistant-orange?style=for-the-badge)](#)
-- [![EcoTex](https://img.shields.io/badge/Textile%20AI%20Designer-AI%20Designer-blue?style=for-the-badge)](#)
+[![Stockmarketweb](https://img.shields.io/badge/Stockmarketweb-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thoufik1111/Stockmarketweb)
+[![AgroNity](https://img.shields.io/badge/AgroNity-F97316?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thoufik1111/AgroNity)
+[![EcoTex](https://img.shields.io/badge/EcoTex-06B6D4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thoufik1111/EcoTex)
+[![Autismdashboard](https://img.shields.io/badge/Autismdashboard-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thoufik1111/Autismdashboard)
+[![Flowerclassification](https://img.shields.io/badge/Flowerclassification-16A34A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thoufik1111/Flowerclassification)
+
 
 
 ### 🌐 Connect with Me
@@ -25,3 +28,5 @@
 ### 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=thoufik1111&show_icons=true&theme=radical)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=thoufik1111&theme=radical)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thoufik1111&layout=compact&langs_count=6&theme=radical)](https://github.com/thoufik1111/github-readme-stats)
+
