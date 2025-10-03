@@ -32,6 +32,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-thoufik-316956293)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/royal_beast_boy)
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/Mohammed_Thoufik22?ext=contest)
+
 ### 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=thoufik1111&show_icons=true&theme=radical)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=thoufik1111&theme=radical)
