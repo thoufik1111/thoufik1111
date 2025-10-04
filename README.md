@@ -1,6 +1,9 @@
 # Hi, I'm Thoufik 👋
+
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF00&width=1000&lines=AI+%7C+ML+%7C+Data+Analytics+%7C+Web+Development+Enthusiast;Passionate+about+building+intelligent+systems+%26+impactful+projects)
 🏋️‍♂️ Workout | 🔬 Research | 🎮 Gaming | ✈️ Travel
+
+---
 
 ### 🛠 Skills & Strength
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -10,8 +13,9 @@
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+---
 
- ## 🛠️ My Projects  
+### 🛠️ My Projects  
 [![GenChatbot](https://img.shields.io/badge/GenChatbot-DC2626?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thoufik1111/GenChatbot)
 [![Stockmarketweb](https://img.shields.io/badge/Stockmarketweb-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thoufik1111/Stockmarketweb)
 [![AgroNity](https://img.shields.io/badge/AgroNity-F97316?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thoufik1111/AgroNity)
@@ -19,7 +23,9 @@
 [![Autismdashboard](https://img.shields.io/badge/Autismdashboard-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thoufik1111/AUTIDASH)
 [![Flowerclassification](https://img.shields.io/badge/Flowerclassification-16A34A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thoufik1111/Flowerclassification)
 
-## 🛠️ Tools I Use  
+---
+
+### 🛠️ Tools I Use  
 
 <p align="left">
   <img src="https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
@@ -27,12 +33,29 @@
   <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=black" alt="Google Colab" />
 </p>
 
+---
+
+### 🤖 AI Tools I Use
+<p align="left">
+  <img src="https://img.shields.io/badge/-ChatGPT-00CC96?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
+  <img src="https://img.shields.io/badge/-Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini" />
+  <img src="https://img.shields.io/badge/-Bing-008373?style=for-the-badge&logo=bing&logoColor=white" alt="Bing" />
+  <img src="https://img.shields.io/badge/-LovableAI-F24E1E?style=for-the-badge&logo=adobe&logoColor=white" alt="LovableAI" />
+  <img src="https://img.shields.io/badge/-Claude-FF9900?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/-StitchAI-6E40C9?style=for-the-badge&logo=stitch&logoColor=white" alt="StitchAI" />
+  <img src="https://img.shields.io/badge/-Perplexity-FF5C5C?style=for-the-badge&logo=perplexity-ai&logoColor=white" alt="Perplexity" />
+ <img src="https://img.shields.io/badge/-Tlooto-FFFF5C?style=for-the-badge&logo=tlooto-ai&logoColor=white" alt="Tlooto" />
+</p>
+
+---
 
 ### 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-thoufik-316956293)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/royal_beast_boy)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Mohammed_Thoufik22?ext=contest)
+
+---
 
 ### 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=thoufik1111&show_icons=true&theme=radical)
