@@ -35,7 +35,7 @@
 
 ---
 
-### 🤖 AI Tools I Use
+### 🤖 AI Resources I Use
 <p align="left">
   <img src="https://img.shields.io/badge/-ChatGPT-00CC96?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
   <img src="https://img.shields.io/badge/-Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini" />
