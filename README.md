@@ -5,7 +5,7 @@
 
 ---
 
-### 🛠 Skills & Strength
+### 🧠 Skills & Strength
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -15,7 +15,7 @@
 
 ---
 
-### 🛠️ My Projects  
+### 📚 My Projects  
 [![GenChatbot](https://img.shields.io/badge/GenChatbot-DC2626?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thoufik1111/GenChatbot)
 [![Stockmarketweb](https://img.shields.io/badge/Stockmarketweb-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thoufik1111/Stockmarketweb)
 [![AgroNity](https://img.shields.io/badge/AgroNity-F97316?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thoufik1111/AgroNity)
