@@ -57,7 +57,7 @@ Passion: Research, Innovation & Building Useful Products
   </a>
 
   <a href="https://github.com/thoufik1111/KnowChat">
-    <img src="https://img.shields.io/badge/KnowChat-Knowledge%20AI-0ea5e9?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/KnowChat-WhatsappAnalytics-0ea5e9?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 
   <a href="https://github.com/thoufik1111/Recipe-explorer-frontend">
