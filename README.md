@@ -17,17 +17,11 @@
 
 ### 📚 My Projects  
 [![GenChatbot](https://img.shields.io/badge/GenChatbot-DC2626?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thoufik1111/GenChatbot)
-
-[![AgroNity](https://img.shields.io/badge/AgroNity-F97316?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thoufik1111/AgroNity)
-
-[![EcoTex](https://img.shields.io/badge/EcoTex-06B6D4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thoufik1111/EcoTex)
-
+[![AgroNity](https://img.shields.io/badge/AgroNity-F97316?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thoufik1111/agronity.in.git)
+[![EcoTex](https://img.shields.io/badge/EcoTex-06B6D4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thoufik1111/Ecotex-.git)
 [![Collabrix](https://img.shields.io/badge/Collabrix-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thoufik1111/Collabrix)
-
 [![KnowChat](https://img.shields.io/badge/KnowChat-0EA5E9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thoufik1111/KnowChat)
-
 [![RecipeExplorer](https://img.shields.io/badge/RecipeExplorer-EAB308?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thoufik1111/Recipe-explorer-frontend)
-
 [![Auticare](https://img.shields.io/badge/Auticare-EC4899?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thoufik1111/Auticare.com)
 
 ---
